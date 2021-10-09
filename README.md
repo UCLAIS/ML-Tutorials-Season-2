@@ -14,9 +14,9 @@ On our YouTube channel, you can watch our lectures and recordings of solution wa
 **YouTube channel**: [UCL Artificial Intelligence Society](https://www.youtube.com/channel/UC-5Whp878nPjOqKaL0tsDoA)  
 
 On our Discord channel, you can ask any questions you may have on our notebooks.  
-**Discord channel invite link**: [UCL AI soc Discord](https://discord.gg/Hh9EVw2RGP)
+**Discord Server**: [UCL AI soc Discord](https://discord.gg/Hh9EVw2RGP)
 
-Check our Facebook events for the zoom link of the live session - [AISoc.ucl](https://www.facebook.com/AISoc.ucl)
-
+**Facebook page**: [@AISoc.ucl ](https://www.facebook.com/AISoc.ucl)  
+**Instagram profile**: [@uclaisociety](https://www.instagram.com/p/CUxvALApRFL/)
 
 
