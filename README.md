@@ -20,3 +20,16 @@ On our Discord channel, you can ask any questions you may have on our notebooks.
 **Instagram profile**: [@uclaisociety](https://www.instagram.com/p/CUxvALApRFL/)
 
 
+### Curriculum
+
+
+| Lecture date | Topic |
+| --- | --- |
+| October 13 | **Intro to Data Analysis & Python for ML** |
+| October 20 | **Classical ML Models** |
+| October 27 | **Intro to Neural Networks** |
+| November 3 | **Computer Vision** |
+| November 17 | **Sequence Models** |
+| November 24 | **Intro to Natural Language Processing** |
+| December 01 | **Generative Adversarial Networks** |
+| December 08 | **Reinforcement Learning** |
